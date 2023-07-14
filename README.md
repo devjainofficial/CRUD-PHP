@@ -3,4 +3,6 @@
 Deployed using 000webhost:
 http://crudev.000webhostapp.com/
 
+You can ADD, UPDATE, and DELETE your information.
+
 
